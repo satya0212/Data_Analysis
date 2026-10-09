@@ -1,3 +1,2 @@
 # Data_Analysis
-
-This repository was initialized to host Colab notebooks and analysis files.
+this repository contains data analysis files.
